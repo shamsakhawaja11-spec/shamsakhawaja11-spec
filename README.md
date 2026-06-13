@@ -63,3 +63,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamsakhawaja11-spec&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1" width="40%" />
 </div>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/shamsakhawaja11-spec/shamsakhawaja11-spec/output/github-snake-dark.svg" />
+</div>
