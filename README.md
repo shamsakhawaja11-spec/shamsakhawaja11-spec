@@ -41,25 +41,6 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 <br/>
-
-### 🚀 Currently Building
-
-> **SaaS Project Management Tool**
-> NestJS + React + PostgreSQL + AI Chatbot + Stripe Payments
-
-| Module | Status |
-|--------|--------|
-| Auth (JWT) | ✅ Done |
-| Workspaces | ✅ Done |
-| Projects | ✅ Done |
-| Boards | ✅ Done |
-| Tasks | 🔄 In Progress |
-| Frontend React | 🔄 In Progress |
-| AI Chatbot | ⬜ Coming |
-| Stripe Payments | ⬜ Coming |
-
-<br/>
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamsakhawaja11-spec&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1" width="40%" />
 </div>
